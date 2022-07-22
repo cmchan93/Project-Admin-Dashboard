@@ -3,4 +3,4 @@
 Live link at https://dodgedanpei.github.io/Project-Admin-Dashboard/
 
 
-![Screenshot](images/Project Admin Dashboard.JPG?raw=true "Title")
+![Screenshot](screenshot.png)
